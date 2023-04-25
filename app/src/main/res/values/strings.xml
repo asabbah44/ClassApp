@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ClassApp</string>
+    <string name="showmsg">ShowMSG</string>
+    <string-array name="Gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
 </resources>
