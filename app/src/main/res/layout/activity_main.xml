@@ -32,6 +32,10 @@
         android:onClick="ShowMag"
         android:text="@string/showmsg" />
 
+    <ListView
+        android:id="@+id/lview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
 
 
 </LinearLayout>
